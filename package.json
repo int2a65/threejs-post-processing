@@ -2,7 +2,7 @@
   "name": "threejs-post-processing",
   "version": "1.0.0",
   "description": "post-processing module for threejs",
-  "main": "/dist/bundle.cjs.js",
+  "main": "./dist/bundle.cjs.js",
   "scripts": {
     "test": "yarn test",
     "build": "rollup -c"
