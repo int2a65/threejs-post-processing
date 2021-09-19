@@ -1,6 +1,6 @@
 {
   "name": "threejs-post-processing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "post-processing module for threejs",
   "main": "./dist/bundle.cjs.js",
   "scripts": {
