@@ -2147,9 +2147,10 @@ three-gltf-loader@^1.101.0:
   version "1.101.0"
   resolved "https://registry.yarnpkg.com/three-gltf-loader/-/three-gltf-loader-1.101.0.tgz#f6faf959e883101940052aa6930722152977f4f7"
 
-three@^0.101.1:
-  version "0.101.1"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.101.1.tgz#e7681ef52f4e572cb84f307f16f540c457030ec6"
+three@^0.132.2:
+  version "0.132.2"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.132.2.tgz#95eb1856147237c03e887cbbe56f964b6fb40b5e"
+  integrity sha512-0wcR7LxxkXMn6Gi58gEs3QvY8WpTVXA31L2VOvpjm4ZPYFRHCZC13UqynheFoS5OXDYgtBneN0dhbaNBE8iLhQ==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
